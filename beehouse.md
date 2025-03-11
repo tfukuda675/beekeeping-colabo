@@ -20,21 +20,21 @@
 <br>
 <br>
 
-###　◆　第一養蜂場
+### ◆ 第一養蜂場
 巣門を南側に  
 南側は開けた場所  
 ![Image](https://github.com/user-attachments/assets/2cf18f07-54d0-42de-bd8e-b842260f130a)  
 <br>
 <br>
 
-###　◆　第二養蜂場
+### ◆ 第二養蜂場
 巣門を南側に  
 各巣箱の巣門の向きを変える  
 ![Image](https://github.com/user-attachments/assets/6f2d8c56-2ecc-471d-8519-97de27361ea5)  
 <br>
 <br>
 
-### ◆　補強
+### ◆ 補強
 らせん杭を使って補強  
 ![Image](https://github.com/user-attachments/assets/4b485640-2998-4fa2-81ae-cd037e813d75)  
 <br>
