@@ -144,25 +144,3 @@
 > 温度差で蒸れて巣箱の中は水分でびしょびしょになるから注意。  
 
 
-
-
-
-
-
-
-
-
-
-
-![Image](https://github.com/user-attachments/assets/cde70174-ad73-4e7f-9458-eaace6e6874f)
-
-
-
-
-
-
-
-
-
-
-
